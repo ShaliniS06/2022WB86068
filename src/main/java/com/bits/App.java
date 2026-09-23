@@ -12,3 +12,4 @@ public class App
         System.out.println( "Hello World!" );
     }
 }
+// Auto-build test 2
